@@ -1,0 +1,58 @@
+[user_config]
+# file_pathなどの文字列は
+# file_path = "file/to/path/file.srt"
+# のようにかいてね
+file_path = "file/to/path/file.srt"
+
+movie_size = [1280, 720]
+frame_rate = 30
+audio_rate = 44100
+audio_ch = 2
+set_layer = 5
+
+[object_config]
+# テキストの配置
+X = 0.0
+Y = 350.0
+Z = 0.0
+
+# 拡大率
+zoom = 100.00
+# 透明度
+alpha_blend = 0.0
+# 回転
+rotate = 0.0
+# サイズ
+size = 100
+# 合成モード
+blend=0
+
+[text_config]
+# フォント
+font = "メイリオ"
+
+# 太字
+Bold = false
+# 斜字
+Italic = false
+# 文字の縁取り、影の設定
+type = 3
+# 長さの自動調節
+autoadjust=true
+# 滑らかにする
+soft = true
+# 等間隔モード
+monospace = false
+# テキストのそろえ方
+align = 7
+# 字間
+spacing_x = 0
+# 行間
+spacing_y = 0
+# 高精度モード
+precision = true
+# テキストの色
+color = "0000ff"
+# テキストの縁、影の色
+color2 = "ffffff"
+
