@@ -3,6 +3,10 @@
 
 自分用に作っただけですが、もったいないのでgithubに上げておきます
 
+こちらのコードを参考にさせていただきました
+
+https://qiita.com/tset-tset-tset/items/e245c9c1a4fdbb18cf6d
+
 ## 使い方
 自分のpython環境にリポジトリをコピーし、
 ```
